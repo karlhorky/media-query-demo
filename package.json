@@ -30,7 +30,6 @@
     ]
   },
   "resolutions": {
-    "mkdirp": "0.5.3",
     "**/optimist/minimist": "0.2.1",
     "minimist": "^1.2.2"
   }
