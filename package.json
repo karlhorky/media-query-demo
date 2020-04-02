@@ -28,9 +28,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "resolutions": {
-    "**/optimist/minimist": "0.2.1",
-    "minimist": "^1.2.2"
   }
 }
